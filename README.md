@@ -12,8 +12,9 @@
 ```
 
 ### 1. 강의자료 (`lecture/`)
-- `발표자료_통계적추론과회귀분석.pptx` — 50분 강의 슬라이드. **발표자 노트 포함** (각 슬라이드 노트에 강의 대사·배경설명 수록).
+- `발표자료_통계적추론과회귀분석.pptx` — 45슬라이드 50분 강의. **발표자 노트 포함** (각 슬라이드 노트에 강의 대사·배경설명 수록).
 - 목차: EDA→추론 연결 / 통계적 추론 기본개념 / 표본분포·신뢰구간 / 가설검정 / 단순선형회귀 / 다중회귀 / 회귀 가정과 평가.
+- **디자인**: 'AI 생성 티'가 나는 제목+불릿 획일 구조 대신 10종 레이아웃(statement·compare·figure·오해 callout·큰 숫자·steps 등)으로 구성. 근거·AI 티 체크리스트·참고자료는 [`lecture/발표자료_리디자인_노트.md`](lecture/발표자료_리디자인_노트.md).
 
 ### 2. 리뷰 논문 (`paper/`)
 - **To Explain or to Predict?** — Galit Shmueli (Statistical Science (Institute of Mathematical Statistics), 2010). DOI: [10.1214/10-STS330](https://doi.org/10.1214/10-STS330)
