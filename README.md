@@ -32,8 +32,9 @@
 | 파일 | 내용 |
 | --- | --- |
 | [`assignment.ipynb`](assignment/assignment.ipynb) | 학생 배포용 — 빈칸(`____`, `# TODO`) 채우기 |
-| [`solution.ipynb`](assignment/solution.ipynb) | 모범답안 (코드 채워진 판) |
 | `data/framingham.csv` | 데이터 (셀 실행 시 공개 URL 자동 로드, 오프라인이면 이 파일로 대체) |
+
+> 모범답안(`solution.ipynb`)은 공개하지 않습니다.
 
 - **유형**: A(기초 체화 — CLT·부트스트랩을 직접 손코딩) + B(도구 활용 — statsmodels·sklearn·scipy).
 - **흐름**: 로드 → EDA → 추론(CLT·신뢰구간·t검정) → 회귀(단순·다중·잔차 진단) → 예측(train/test) → **로지스틱 회귀로 진짜 표적 `TenYearCHD` 예측 = Risk Score 엔진**.
